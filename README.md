@@ -1,4 +1,4 @@
-Nesse modulo foi ensinado:
+O que foi estudado neste modulo:
 
 * Estrutura básica de um e-mail HTML;
 * Criação de um e-mail com base no figma;
